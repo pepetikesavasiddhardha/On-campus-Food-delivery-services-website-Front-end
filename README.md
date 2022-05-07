@@ -1,4 +1,3 @@
-![ss2](https://user-images.githubusercontent.com/70747076/167240492-591922f1-baa3-47cd-b9a8-fb16e950107b.png)
 # On-campus-Food-delivery-services-website-Front-end
 #### https://pepetikesavasiddhardha.github.io/On-campus-Food-delivery-services-website-Front-end/
 #### In this project I have created a interactive website(front end) for Kanaka catering services avaliable in our campus with help of Html and CSS and hosted it on github.
