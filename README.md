@@ -6,5 +6,7 @@
 #### Phone.css file is used and basically commands for styling were given in this file if website is viewed from any sort of android or Iphones etc
 #### Finally we hosted this website in github and above link can be used to view the website
 ![ss1](https://user-images.githubusercontent.com/70747076/167240211-bb29eaa1-3b5f-46e3-88cc-71b95054edaa.png)
+
 ![ss2](https://user-images.githubusercontent.com/70747076/167240508-ba75c5b4-2788-4f6b-8b78-3c0104a76656.png)
+
 ![ss3](https://user-images.githubusercontent.com/70747076/167240518-17dac413-60b3-4302-85b4-b2c3a9e222a6.png)
