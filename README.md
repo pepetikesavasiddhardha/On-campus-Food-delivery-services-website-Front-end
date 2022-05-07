@@ -10,3 +10,11 @@
 ![ss2](https://user-images.githubusercontent.com/70747076/167240508-ba75c5b4-2788-4f6b-8b78-3c0104a76656.png)
 
 ![ss3](https://user-images.githubusercontent.com/70747076/167240518-17dac413-60b3-4302-85b4-b2c3a9e222a6.png)
+
+#### some problems i faced while executing this project 
+#### 1) css file should be named properly
+#### 2) after mentioning anchor tag u should also link it with id or else it will not work
+#### 3) all those are errors not warnings
+#### 4) Putting z factor 100
+#### 5) we can put send btn in middle by using center class 
+#### 6) hosting first settings->github pages->main root and save->wait till link gets open
