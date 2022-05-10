@@ -1,5 +1,5 @@
 # On-campus-Food-delivery-services-website-Front-end
-#### https://pepetikesavasiddhardha.github.io/On-campus-Food-delivery-services-website-Front-end/
+#### https://pepetikesavasiddhardha.github.io/On-campus-Food-delivery-services-website-Front-end/images
 #### In this project I have created a interactive website(front end) for Kanaka catering services avaliable in our campus with help of Html and CSS and hosted it on github.
 #### In this website totally there are 4 sections along with Navigation bar. Home ,Services we provide , our clients and Contact form for each of them we use different    sections in html
 #### Using CSS we have provided back ground images and styling of these 4 sections also done with help of it and also we made navbar sticky so that it will always remain on top of screen and we have provided smooth scrolling also
